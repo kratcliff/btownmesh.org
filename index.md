@@ -1,6 +1,6 @@
 # Welcome!
 
-We are the [Central Ohio Mesh!](https://meshcolumb.us), the [Meshtastic](https://meshtastic.org/) LUG for the Columbus, Ohio metro area. We are still in the process of organizing, and we need _your_ help!
+We are the [Central Ohio Mesh](https://meshcolumb.us), the [Meshtastic](https://meshtastic.org/) LUG for the Columbus, Ohio metro area. We are still in the process of organizing, and we need _your_ help!
 
 # Join Up
 
