@@ -15,7 +15,7 @@
     <header>
       <div class="container">
         {% if site.logo %}
-          <img id="site-logo" src="{{ site.logo }}{{ '?v=' | append: site.github.build_revision | relative_url }}">
+          <img id="site-logo" src="{{ site.logo }}{{ '?v=' | append: site.github.build_revision }}">
         {% endif %}
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>

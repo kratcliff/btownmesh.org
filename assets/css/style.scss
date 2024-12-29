@@ -5,3 +5,15 @@
 
 #downloads { display: none; }
 
+#site-logo {
+  display: block;
+  margin: 0.5rem;
+  float: right;
+}
+
+header .container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
