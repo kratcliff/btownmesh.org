@@ -9,6 +9,8 @@
   display: block;
   margin: 0.5rem;
   float: right;
+  max-width: 100px;
+  border-radius: 20px;
 }
 
 header .container::after {
