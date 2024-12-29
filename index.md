@@ -14,5 +14,5 @@ Meshtastic is an open source, off-grid, decentralized, mesh network built to run
 
 Our community is just getting started, and everyone is welcome to contribute!
 
-This site, in particular, is in dire need of some content and design. Please feel free to [fork it and send us a pull request](https://github.com/markleybros/central-ohio-mesh-web/)! All meaningful contributions are appreciated.
+This site, in particular, is in dire need of some content and design. Please feel free to [fork it and send us a pull request](https://github.com/markleybros/central-ohio-mesh-web)! All meaningful contributions are appreciated.
 
