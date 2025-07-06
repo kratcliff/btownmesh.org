@@ -1,10 +1,10 @@
 # Welcome!
 
-We are the [Central Ohio Mesh](https://meshcolumb.us), the [Meshtastic](https://meshtastic.org/) local group for the Columbus, Ohio metro area. We are still in the process of organizing, and we need _your_ help!
+We are [btownmesh.org](https://btownmesh.org), the [Meshtastic](https://meshtastic.org/) local group for the Bloomington, Indiana, USA area. We are still in the process of organizing, and we need _your_ help!
 
 # Join Up
 
-For more information, and to join the community, please [join our Discord server!](https://discord.com/invite/B6fuujsHJu)
+For more information, and to join the community, please join our Signal group.
 
 # What is Meshtastic?
 
@@ -14,5 +14,4 @@ Meshtastic is an open source, off-grid, decentralized, mesh network built to run
 
 Our community is just getting started, and everyone is welcome to contribute!
 
-This site, in particular, is in dire need of some content and design. Please feel free to [fork it and send us a pull request](https://github.com/markleybros/central-ohio-mesh-web)! All meaningful contributions are appreciated.
-
+This site, in particular, is in dire need of some content and design. Please feel free to [fork it and send us a pull request](https://github.com/kratcliff/btownmesh.org)! All meaningful contributions are appreciated.
