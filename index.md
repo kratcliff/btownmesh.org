@@ -18,7 +18,7 @@ This site, in particular, is in dire need of some content and design. Please fee
 
 # Our Settings
 
-- **Frequency Range:** 70cm/915MHz ISM band (US) (specifically 906.875 MHz, corresponding to Frequency Slot 20)
+- **Frequency Range:** 33cm/915MHz ISM band (US) (specifically 906.875 MHz, corresponding to Frequency Slot 20)
 - **Modem Preset:** LongFast
 - **Channel Name:** `LongFast`
 - **Encryption:** Default (Use `AQ==` as the key)
