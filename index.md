@@ -2,7 +2,7 @@
 format: 
  html:
   theme: light
-  css: /assets/css/styles.css
+  css: assets/css/styles.css
 
 title-prefix: Bloomington Mesh
 pagetitle: Welcome
