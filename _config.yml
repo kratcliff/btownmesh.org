@@ -1,9 +1,0 @@
-title: btownmesh.org
-author: btownmesh.org
-# email: your-email@example.com
-description: Welcome to btownnmesh.org, the Meshtastic local group for the Bloomington, Indiana, USA area.
-baseurl: ""
-url: "https://btownmesh.org"
-theme: jekyll-theme-hacker
-show_downloads: false
-logo: /assets/img/M-PWRD.png

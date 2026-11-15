@@ -1,0 +1,102 @@
+body {
+	width: 90%;
+	margin: auto;
+	background-color: #f8efe2;
+	border: 1px dotted #072332;
+
+	color: #072332;
+}
+
+html {
+	background-color: #ffffff;
+	padding-top: 20px;
+}
+
+
+i {
+	color: #6D0808;
+}
+
+a {
+	color: #072332;
+	text-decoration: dotted underline;
+}
+
+.signal-modal-trigger {
+	background: none;
+	border: 0;
+	padding: 0;
+	font: inherit;
+	font-weight: 700;
+	color: #072332;
+	text-decoration: dotted underline;
+	cursor: pointer;
+}
+
+.signal-modal {
+	display: none;
+	position: fixed;
+	inset: 0;
+	z-index: 9999;
+	align-items: center;
+	justify-content: center;
+	background: rgba(7, 35, 50, 0.6);
+	padding: 1rem;
+}
+
+.signal-modal.is-open {
+	display: flex;
+}
+
+.signal-modal-dialog {
+	position: relative;
+	width: min(100%, 31rem);
+	background: #f8efe2;
+	border: 1px solid #072332;
+	border-radius: 0.75rem;
+	padding: 1.5rem;
+	box-shadow: 0 0.5rem 2rem rgba(7, 35, 50, 0.25);
+}
+
+.signal-modal-close {
+	position: absolute;
+	top: 0.75rem;
+	right: 0.75rem;
+	border: 0;
+	background: transparent;
+	font-size: 2rem;
+	line-height: 1;
+	cursor: pointer;
+	color: #072332;
+}
+
+.signal-turnstile {
+	display: flex;
+	justify-content: center;
+	margin: 1.25rem 0;
+}
+
+.signal-link {
+	display: inline-flex;
+	justify-content: center;
+	width: 100%;
+	margin-top: 1rem;
+	padding: 0.75rem 1rem;
+	border: 1px solid #072332;
+	border-radius: 0.5rem;
+	background: #072332;
+	color: #f8efe2;
+	text-decoration: none;
+	font-weight: 600;
+	transition: opacity 0.2s ease;
+}
+
+.signal-link[aria-disabled="true"] {
+	opacity: 0.5;
+	pointer-events: none;
+	cursor: not-allowed;
+}
+
+.signal-link.is-enabled {
+	opacity: 1;
+}
