@@ -11,7 +11,7 @@ pagetitle: Welcome
 ::: {style="text-align: center; color: #990000;"}
 # Bloomington Mesh
 _Locals meshing together in Bloomington, IN._
-
+<hr>
 :::
 # Welcome!
 
