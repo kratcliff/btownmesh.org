@@ -123,7 +123,7 @@ You will need the following to get off to a good start:
 - Proper antenna for your device (the stock antennas that come with the devices are often not ideal, so consider upgrading to a better antenna for improved range and performance)
 - A smartphone or computer with a USB A port and a Chrome-based browser to configure the device and communicate with other users
 
-An alternative but similar mesh networking project is [Meshtastic](https://meshtastic.org/) which uses similar hardware the firmware acts differently. While the area primarily uses Meshcore, Meshtastic users are also welcome. All meshers are welcome!
+An alternative but similar mesh networking project is [Meshtastic](https://meshtastic.org/) which runs on some of the same radios. Meshtastic and MeshCore do not exchange messages directly over the air. If you are choosing firmware, use what the people you want to reach are running. While the area primarily uses Meshcore, Meshtastic users are also welcome. All meshers are welcome!
 
 # Help Wanted
 
